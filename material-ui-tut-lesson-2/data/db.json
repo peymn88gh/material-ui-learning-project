@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "material ui learning",
+      "details": "learning new things is always fun , more importantly necessary",
+      "category": "money",
+      "id": "1"
+    },
+    {
+      "title": "material ui learning",
+      "details": "learning new things is always fun , more importantly necessary",
+      "category": "money",
+      "id": "2"
+    },
+    {
+      "title": "material ui learning",
+      "details": "learning new things is always fun , more importantly necessary",
+      "category": "money",
+      "id": "3"
+    },
+    {
+      "id": "eTGbLgg"
+    },
+    {
+      "id": "omlTeJd"
+    },
+    {
+      "title": "",
+      "details": "",
+      "category": "time",
+      "id": "Yzcants"
+    },
+    {
+      "title": "for test reasons",
+      "details": "checking the title and detail data fetching",
+      "category": "todos",
+      "id": "eBXjdXZ"
+    }
+  ]
+}
